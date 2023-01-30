@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# bash script that display word"To infinity and beyond" with "I am invincible!!!" indefinitely
+while :
+do
+	echo "To infinity and beyond"
+	sleep 
+	echo "To infinity and beyond"
+	sleep 1
+	echo "I am invincible!!!"
+done
