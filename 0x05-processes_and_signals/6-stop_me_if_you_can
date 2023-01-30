@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # bash script that stops 4-to_infinity_and_beyond process.
-exit "$(pgrep -f 4-to_infinity_and_beyond)"
+done "$(pgrep -f 4-to_infinity_and_beyond)"
