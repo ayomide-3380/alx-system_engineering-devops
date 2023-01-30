@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# displaying pid with the word bash only
+ps -ef | grep bash
